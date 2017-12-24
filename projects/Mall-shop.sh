@@ -5,7 +5,7 @@ WEB_PATH_CLIENT='/home/wwwroot/Mall-shop/client'
 WEB_USER='root'
 WEB_USERGROUP='root'
 # we can do 
-echo "Start deployment yang.luyuans.top"
+echo "Start deployment shop.yangliangjing.cn"
 cd $WEB_PATH
 echo "pulling source code..."
 # git reset --hard origin/release
